@@ -1,0 +1,1 @@
+{:todays_date=>"Thursday", :type=>"date", :words=>"4000"}
